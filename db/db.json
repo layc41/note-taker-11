@@ -1,13 +1,15 @@
-{
-  "notes": [
-    {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "test_id"
-    },
-    {
-      "title": "asdf",
-      "text": "asdf"
-    }
-  ]
-}
+[
+  {
+    "title": "Test Title",
+    "text": "Test text",
+    "id": "test_id"
+  },
+  {
+    "title": "Title",
+    "text": "Note"
+  },
+  {
+    "title": "Things to do",
+    "text": "clean up\n"
+  }
+]

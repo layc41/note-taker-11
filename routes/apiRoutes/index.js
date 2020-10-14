@@ -11,8 +11,8 @@ router.get('/notes', (req, res) => {
 // takes new notes and puts it into db
 router.post('/notes', (req, res) => {
 	// call function to save note to db
-	const newNote = req.body;
-	createNote(newNote);
+	const addNote = req.body;
+	createNote(addNote);
 	res.json(notes);
 });
 
