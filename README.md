@@ -14,7 +14,8 @@ For people that need to keep track of a lot of information, it's easy to forget 
 [Deployed Site: https://ancient-ridge-97223.herokuapp.com/](https://ancient-ridge-97223.herokuapp.com/)
 
 # Screenshot & Video
-![Main](./screenshot.png)
+![Main](./images/note-taker.png)
+
 [Video](https://drive.google.com/file/d/1RNJM1UYQH49BQu0l6i-3yJ63VcaKlv0O/view)
 
 # Tests
